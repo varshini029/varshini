@@ -1,0 +1,292 @@
+html{
+    scroll-behavior: smooth;
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    color: black;
+}
+body{
+    background:linear-gradient(to right,#3638c4,rgb(46, 42, 40)) ;  
+        background-size: 100% 100%;
+  
+}
+ul,li{
+    color:black;
+    display:inline;
+    font-size:20px ;
+    margin-left: 20px;
+    text-decoration: none;
+}
+span{
+    color: rgb(247, 223, 10);
+}
+.top{
+    text-align: right;
+    margin-right: 10%;
+    color: rgb(125, 16, 139);
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+float:right;
+margin-right: 170px;
+margin-top: 100px;
+}
+.hello{
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   display:inline-block;
+   color: white;
+    text-align: center;
+    margin-left: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+}   
+    .intro{
+        color: rgb(0, 0, 0);
+        font-size: 19px;
+        margin-left: 50px;
+        text-transform: initial;
+        margin-left: 20%;
+        width: 370px;
+        margin-top:10px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+.resume{
+    color: beige;
+    background-color:rgb(0, 0,255);
+    border-radius: 20px;
+    padding:14px;
+    font-weight: 900;
+    border: none;
+    text-align: center;
+
+}
+.project{
+    color: beige;
+    background-color:blue;
+    border-radius: 20px;
+    padding:14px;
+    font-weight: 900;
+    margin-left: 60px;
+    border: none;
+    display: inline;
+}
+.resume:hover{
+         background-color: blueviolet; 
+         }
+.project:hover{
+    background-color: blueviolet;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 300px;
+}   
+.css,.html,.git,.react{
+    width: 60px;
+    height: 60px;
+    display:block;
+}
+.skill-top{
+    margin-top: 50px;
+
+}
+.skill{
+    display:inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin-left: 45%;
+ margin-top: 50px;
+}
+.skill-head{ 
+    border-style: double;
+    border-width: 5px;
+    border-color: rgb(85, 12, 85);
+    border-radius: 50%;
+    display: inline;
+    padding: 30px;
+    margin-bottom: 100px;
+    margin-left: 40%;
+    color: rgb(19, 32, 39);
+
+    
+}
+.back{
+    padding: 20px;
+    border: none;
+    background-color: rgb(255, 0, 0);
+ display: inline;
+ margin-left: 43%;
+}
+.text{
+    color: rgb(3, 34, 90);
+    font-size:25px ;
+    margin-top: 25px;   
+    font-weight: 600;
+    text-decoration-style: double;
+    text-decoration-line: underline;}
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+.education-top{
+    margin-top: 60px;
+    text-align: center;
+}
+.edu{
+    text-decoration: dotted;
+    border-style:double;
+    border-width: 5px;
+    color: blue;
+    border-color: black;
+    padding: 30px;
+    border-radius: 50%;
+    display: inline;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.education-box {
+    text-align: center;
+color: rgb(8, 14, 15);
+padding:25px;
+margin: right 300px;
+border:none;
+margin-bottom:10px;
+margin-top:50px ;
+font-size: 20px;
+word-spacing: 3px;
+font-family:Verdana, Geneva;
+font-weight: 600;
+}.back-ed{
+    display: inline;
+margin-top:10px;
+background-color: black;
+color:aqua;
+border-radius: 15px;
+border-style:solid ;
+border-color: black;
+padding: 10px;
+text-decoration: none;
+
+}
+h2 {
+font-size: 24px;
+margin-bottom: 15px;
+}
+h3 {
+font-size: 18px;
+margin: 0;
+}
+.contact {
+color: aliceblue;
+margin-left: 36%;
+padding: 30px;
+
+}
+.Instagram{
+    background-color: rgb(201, 64, 132);
+    text-decoration: none;
+    border: none;
+    color: white;
+    height: 36px;
+    width: 84;
+    border-radius: 20px;
+    font-weight:bolder;
+    margin-left: 8px;
+    transition: opacity 2s;
+    box-shadow: 6px 6px 6px  rgb(63, 58, 58);
+    padding: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    background-color: black;
+    padding: 7px;
+    transition: 0.7s;
+    color: rgb(82, 223, 223);
+}
+.tweet{
+    background-color: rgb(24, 119, 243);
+    text-decoration: none;
+    border: none;
+    color: white;
+    height: 36px;
+    width: 84;
+    border-radius: 20px;
+    font-weight:bolder;
+    margin-left: 8px;
+    transition: opacity 2s;
+    box-shadow: 6px 6px 6px  rgb(63, 58, 58);
+    display: inline;
+    padding: 10px;
+}
+.linkedin{
+    background-color: rgb(10, 78, 167);
+    text-decoration: none;
+    border: none;
+    color: white;
+    height: 36px;
+    width: 84;
+    border-radius: 20px;
+    font-weight:bolder;
+    margin-left: 8px;
+    transition: opacity 2s;
+    box-shadow: 6px 6px 6px  rgb(63, 58, 58);
+    display: inline;
+    padding: 10px;
+}
+.contact2{
+    display: inline;
+    text-align: center;
+    shape-outside: margin-box;
+    box-shadow:1px 1px 1px grey;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}.back{
+    display: inline;
+    margin-top: 30px;
+    background-color: black;
+    color:aqua;
+    border-radius: 15px;
+    border-style:solid ;
+    border-color: black;
+    padding: 10px;
+    text-decoration: none;
+    }
+    .back2{
+        margin-top: 30px;
+    background-color: black;
+    color:aqua;
+    border-radius: 15px;
+    border-style:solid ;
+    border-color: black;
+    padding: 10px;
+    text-decoration: none;
+    
+    }.contact-top{
+        
+        border-color: rgb(64, 86, 182);
+        border-style: double;
+        border-radius: 50%;
+        border-width: 5px;
+    padding: 20px;
+    display: inline;
+    margin-bottom: 50px;
+    }.resume,.project{
+    background-color:blue;
+    display: inline;
+    color:white;
+    padding: 8px;
+    text-decoration: none;
+}
+.resume:hover{
+background-color:0 0 255 ;
+}
+.r{
+color: white;
+text-decoration: none;
+}
